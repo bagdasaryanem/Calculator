@@ -1,0 +1,38 @@
+c:\users\user_2\documents\visual studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\user_2\documents\visual studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\user_2\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\user_2\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+c:\users\user_2\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+c:\users\user_2\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\user_2\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\user_2\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+c:\users\user_2\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user_2\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\user_2\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\user_2\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\user_2\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\user_2\Desktop\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user_2\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+C:\Users\user_2\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\user_2\Desktop\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user_2\Desktop\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+E:\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\Artur\OneDrive - SolBridge International School of Business\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Artur\OneDrive - SolBridge International School of Business\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Artur\OneDrive - SolBridge International School of Business\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Artur\OneDrive - SolBridge International School of Business\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+C:\Users\Artur\OneDrive - SolBridge International School of Business\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\Artur\OneDrive - SolBridge International School of Business\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Artur\OneDrive - SolBridge International School of Business\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Artur\OneDrive - SolBridge International School of Business\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Artur\OneDrive - SolBridge International School of Business\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
